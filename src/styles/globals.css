@@ -25,7 +25,8 @@ a {
 }
 
 .swiper {
-  padding-top: 10px;
+  padding-top: 10px !important;
+
 }
 
 .swiper-button-next:disabled {
